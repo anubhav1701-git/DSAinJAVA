@@ -9,7 +9,7 @@
 | **Tags** | Array, Binary Search, Matrix |
 | **Link** | [View Problem](https://leetcode.com/problems/search-a-2d-matrix/) |
 | **Runtime** | 0 ms |
-| **Memory** | 42.8 MB |
+| **Memory** | 43.8 MB |
 
 ## Problem Description
 
