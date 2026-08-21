@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Image Smoother](./LeetCode/Easy/Image%20Smoother) - *Easy*
 - [Lucky Numbers in a Matrix](./LeetCode/Easy/Lucky%20Numbers%20in%20a%20Matrix) - *Easy*
 - [Search a 2D Matrix](./LeetCode/Medium/Search%20a%202D%20Matrix) - *Medium*
 - [Set Matrix Zeros](./GeeksForGeeks/Medium/Set%20Matrix%20Zeros) - *Medium*
