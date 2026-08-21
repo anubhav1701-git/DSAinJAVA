@@ -8,8 +8,8 @@
 | **Solved On** | August 21, 2026 |
 | **Tags** | Array, Matrix |
 | **Link** | [View Problem](https://leetcode.com/problems/image-smoother/) |
-| **Runtime** | 0 ms |
-| **Memory** | 42.6 MB |
+| **Runtime** | 5 ms |
+| **Memory** | 47.9 MB |
 
 ## Problem Description
 
