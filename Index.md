@@ -13,4 +13,5 @@ All solved problems organized by pattern/category.
 - [Set Matrix Zeroes](./LeetCode/Medium/Set%20Matrix%20Zeroes) - *Medium*
 
 ## Uncategorized
+- [Detect Capital](./LeetCode/Easy/Detect%20Capital) - *Easy*
 - [Search a 2D Matrix](./LeetCode/Medium/Search%20a%202D%20Matrix) - *Medium*
