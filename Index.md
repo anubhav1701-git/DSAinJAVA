@@ -16,6 +16,7 @@ All solved problems organized by pattern/category.
 - [Set Matrix Zeroes](./LeetCode/Medium/Set%20Matrix%20Zeroes) - *Medium*
 
 ## Uncategorized
+- [Reverse Words in a String III](./LeetCode/Easy/Reverse%20Words%20in%20a%20String%20III) - *Easy*
 - [Valid Anagram](./LeetCode/Easy/Valid%20Anagram) - *Easy*
 - [Reverse Only Letters](./LeetCode/Easy/Reverse%20Only%20Letters) - *Easy*
 - [Detect Capital](./LeetCode/Easy/Detect%20Capital) - *Easy*
