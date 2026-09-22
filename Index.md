@@ -24,4 +24,5 @@ All solved problems organized by pattern/category.
 - [Search a 2D Matrix](./LeetCode/Medium/Search%20a%202D%20Matrix) - *Medium*
 
 ## string
+- [Count Binary Substrings](./LeetCode/Easy/Count%20Binary%20Substrings) - *Easy*
 - [Long Pressed Name](./LeetCode/Easy/Long%20Pressed%20Name) - *Easy*
