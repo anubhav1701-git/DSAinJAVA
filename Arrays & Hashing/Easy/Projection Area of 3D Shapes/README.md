@@ -8,8 +8,8 @@
 | **Solved On** | September 23, 2026 |
 | **Tags** | Array, Math, Geometry, Matrix |
 | **Link** | [View Problem](https://leetcode.com/problems/projection-area-of-3d-shapes/) |
-| **Runtime** | 3 ms |
-| **Memory** | 46.3 MB |
+| **Runtime** | 2 ms |
+| **Memory** | 46.6 MB |
 
 ## Problem Description
 
