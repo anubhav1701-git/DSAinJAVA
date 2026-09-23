@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Projection Area of 3D Shapes](./LeetCode/Easy/Projection%20Area%20of%203D%20Shapes) - *Easy*
 - [Third Maximum Number](./LeetCode/Easy/Third%20Maximum%20Number) - *Easy*
 - [4Sum](./LeetCode/Medium/4Sum) - *Medium*
 - [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) - *Medium*
